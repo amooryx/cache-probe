@@ -1,10 +1,10 @@
-﻿# cache-probe
+# cache-probe
 
 > Red team security tool for authorized testing only.
 
 ## Usage
 
-`ash
+```bash
 python cache_probe.py --help
 ```
 
